@@ -1,4 +1,4 @@
-# `BiscuitGuard` MVP
+# `BisquitGuard` MVP
 
 ## Description
 The tool is intended to check the presence of particular cookies on websites.
